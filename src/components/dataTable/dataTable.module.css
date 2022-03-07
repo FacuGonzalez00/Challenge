@@ -1,0 +1,38 @@
+thead {
+    color: rgb(0, 0, 0);
+}
+tbody {
+    color: rgb(0, 0, 0);
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.dataTable {
+    margin: 10% auto;
+    width: 95%;
+}
+
+.title {
+    font-size: larger;
+    text-decoration: underline;
+    padding-bottom: 20px;
+}
+
+.buttonsBox {
+    display: flex;
+    justify-content: center;
+    max-height: 30px;
+    padding-top: 10px;
+    align-items: center;
+}
+.button {
+    border-radius: 50%;
+}
+.page {
+    padding-left: 5px;
+    padding-right: 5px;
+}

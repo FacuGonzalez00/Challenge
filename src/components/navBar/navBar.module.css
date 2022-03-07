@@ -1,0 +1,28 @@
+.navBarContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: rgb(242, 114, 35);
+    padding-left: 10px;
+}
+.searchForm {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.orderForm {
+    padding-bottom: 10px;
+}
+
+span {
+    font-size: 15px;
+    font-family: revert;
+
+    padding: 5px;
+    font-weight: bold;
+}
+
+label {
+    font-size: 15px;
+    font-family: revert;
+}
